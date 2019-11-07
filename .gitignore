@@ -1,0 +1,4 @@
+__pycache__/
+*.db
+profile_pics/
+*.sqlite3
